@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zzsKRQsphes=",
+  "dgSpecHash": "jUkqyWNQBuE=",
   "success": true,
-  "projectFilePath": "/config/workspace/CHESS-1/Tests/Tests.csproj",
+  "projectFilePath": "/config/workspace/CHESS-1/tests/Tests.csproj",
   "expectedPackageFiles": [
     "/config/.nuget/packages/coverlet.collector/6.0.4/coverlet.collector.6.0.4.nupkg.sha512",
     "/config/.nuget/packages/microsoft.codecoverage/17.14.1/microsoft.codecoverage.17.14.1.nupkg.sha512",

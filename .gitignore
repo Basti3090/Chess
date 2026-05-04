@@ -1,6 +1,7 @@
 # Build-Ausgaben
 bin/
 obj/
+debug/
 
 # Visual Studio
 .vs/
@@ -20,3 +21,4 @@ TestResults/
 # OS
 .DS_Store
 Thumbs.db
+
