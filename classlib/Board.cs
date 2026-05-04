@@ -50,7 +50,7 @@ public class Board
         _fields[fromRow, fromCol] = null;
     }
 
-    // Brett als Text ausgeben
+    // Brett ausgeben
     public void Print()
     {
         Console.WriteLine("  a b c d e f g h");
