@@ -1,0 +1,22 @@
+# Build-Ausgaben
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider (JetBrains)
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Test-Ergebnisse
+TestResults/
+
+# OS
+.DS_Store
+Thumbs.db
